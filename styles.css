@@ -1,0 +1,129 @@
+html {
+  background-color: pink;
+}
+
+body {
+  background-color: white;
+  /* width: 80%; */
+  margin: 2em 2em 1em 6em;
+  max-width: 80vw;
+  border-radius: 10%;
+  
+}
+
+
+h3, h4 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.title{
+  
+  width: 400px;
+  margin: 0px auto 80px;
+}
+
+nav {
+  
+
+  width: 120%;
+  height: 60px;
+  margin-bottom: 15px;
+
+}
+  ul {
+   
+    padding-top: 15px;
+    padding-right: 5px;
+    float: right;
+  }
+
+  li {
+    display: inline-block;
+    margin: 0 5px;
+    
+  }
+
+
+.card {
+  
+  float: left;
+  margin: 1.2em;
+  height: 30px;
+  width: 20px;
+}
+
+  .button{
+    
+    width: 10em;
+    
+    border-radius: 40px;
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    background: blue;
+    
+    padding: 1em;
+    font-size: .6em;
+  }
+
+  .demo{
+  width: 5em;
+  border-radius: 40px;
+  margin: 0;
+  padding: .5em;
+  color: blue;
+  background: white;
+  }
+  .one{
+    
+    height: 170px;
+    padding: 20px;
+  }
+
+  .one p {
+    
+    font-size: 1em;
+  }
+
+  .two{
+    
+    height: 15em;
+    padding: 1.5em;
+  }
+
+  .user{
+    
+    margin: 1em;
+    width: 190px;
+  }
+
+  input[type='text'] {
+    font-size: 8px;
+    height: 16px;
+    margin: 1em;
+    
+  }
+
+  .six {
+    position: absolute;
+    height: 130px;
+    padding: 2em;   
+    border: none;
+   
+  }
+
+  .seven {
+    position: relative;
+    height: 130px;
+    padding: 10px;
+    left: 70px;
+    
+    border: none;
+  }
+
+  footer {
+    color: white;
+     
+    background: blue;
+    
+  }
